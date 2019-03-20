@@ -1,12 +1,12 @@
-#MERN STACK
+# MERN STACK
 This is a app what make an CRUD of tasks.
 
-#Realized with
+# Realized with
 - MongoDB
 - Express
 - React
 - NodeJS
 
-#Author
+# Author
 Josias Cubillos Gutierrez
 
